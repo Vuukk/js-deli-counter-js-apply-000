@@ -1,5 +1,5 @@
 function takeANumber (people, newPerson) {
-  var katzDeliLine = []
+  return "Welcome, newPerson. You are number 1"
 }
 
 
