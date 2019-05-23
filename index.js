@@ -1,4 +1,4 @@
-function takeANumber (people, newPerson) {
+var takeANumber = function katzDeliLine (people, newPerson) {
   return "Welcome, newPerson. You are number 1"
 }
 
