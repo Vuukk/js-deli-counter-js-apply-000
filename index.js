@@ -17,7 +17,7 @@ function nowServing(katzDeli) {
 }
 
 
-function currentLine (katzDeli) {
+
   function currentLine(katzDeli) {
   let i = 0;
   while (i < katzDeli.length) {
@@ -28,5 +28,4 @@ function currentLine (katzDeli) {
     return "The line is currently empty.";
   } else
   return(`The line is currently:` + line);
-}
 }
