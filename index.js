@@ -1,1 +1,8 @@
-function takeANumber ()
+function takeANumber () {
+  var katzDeliLine = []
+}
+
+
+function nowServing(katzDeliLine) {
+  
+}
